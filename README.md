@@ -62,6 +62,4 @@ There are two main layouts:
  
  When it came to the layout, testing and error handling there was an equal division of labor from both of us. 
 =======
-# calculator
-Submit your calculator projects here
->>>>>>> 565fe4086ff5928deb9f232fe32938e1acd9b467
+
